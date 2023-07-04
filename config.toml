@@ -1,6 +1,6 @@
 
 theme = "PaperMod"
-baseurl = "https://myblog.github.io" 
+baseurl = "https://liang0929.github.io/myblog" 
 #設定主頁 url
 languageCode = "zh-tw" 
 #設定 Blog 語言
