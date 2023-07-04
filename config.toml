@@ -12,7 +12,7 @@ buildDrafts = false
 [[menu.main]]
 identifier = "tags"
 name = "tags"
-url = "/tags/"
+url = "./tags/"
 weight = 10
 
 [[menu.main]]
